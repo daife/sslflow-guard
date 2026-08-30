@@ -1,0 +1,28 @@
+# Gradle build state and outputs
+.gradle/
+build/
+out/
+
+# IDE and editor metadata
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+*.swp
+*.swo
+
+# Java/JVM artifacts
+*.class
+hs_err_pid*
+replay_pid*
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
